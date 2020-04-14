@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hasan'ın blogu",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Kişisel ilgilerim üzerine",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2020/04/15/merhaba.html",
+            "title": "Merhaba",
+            "summary": null,
+            "content_text": "Merhaba, hoş geldiniz.",
+            "content_html": "<p>Merhaba, hoş geldiniz.</p>",
+            "url": "http://localhost:4000/2020/04/15/merhaba.html",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-15T00:00:00+03:00",
+            "date_modified": "2020-04-15T00:00:00+03:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
+    ]
+}
